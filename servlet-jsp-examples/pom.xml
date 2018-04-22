@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>jsp-include-sample</module>
+        <module>custom-tag-jsp-sample</module>
     </modules>
 
     <properties>
