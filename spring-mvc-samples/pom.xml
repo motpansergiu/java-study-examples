@@ -12,7 +12,8 @@
     <artifactId>spring-mvc-samples</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>spring4-form-crud-handle-example</module>
+        <module>spring4-form-handle-example</module>
+        <module>spring4-mvc-form</module>
     </modules>
 
     <build>
