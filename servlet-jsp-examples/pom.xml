@@ -14,6 +14,7 @@
     <modules>
         <module>jsp-include-sample</module>
         <module>custom-tag-jsp-sample</module>
+        <module>sitemesh-sample</module>
     </modules>
 
     <properties>
