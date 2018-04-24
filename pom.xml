@@ -12,6 +12,7 @@
         <module>servlet-jsp-examples</module>
         <module>spring-mvc-samples</module>
         <module>spring-security-samples</module>
+        <module>core-java-io</module>
     </modules>
 
     <properties>
